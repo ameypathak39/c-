@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std ;
+int main(){
+    string myString = "Mello";
+    myString[0] = 'H';
+    cout<< myString;
+    return 0;
+    // \n for next line 
+    // \t for spacing like (tab) 
+
+}
+
+
