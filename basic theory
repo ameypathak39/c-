@@ -1,0 +1,28 @@
+// Object Oriented Programing 
+
+/*
+
+vector
+string   are inplement in STL
+stack 
+
+{ Class & Object } 
+object are entities in the reala world
+class is like blueprrint of this entities
+
+class is like a template
+
+insted of creating in lots of different 
+variable in the code we can create in class with oop concepet 
+
+create a class then make a obj 
+syntax
+
+    class teacher{
+        propertys 
+
+        method
+        
+    }
+
+*/
